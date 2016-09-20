@@ -1,0 +1,19 @@
+{
+  "name": "generator-seneca-express",
+  "version": "1.0.0",
+  "description": "Yeoman generator for Seneca and Express.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcasey8540/generator-seneca-express.git"
+  },
+  "author": "mcasey8540 Mike Casey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mcasey8540/generator-seneca-express/issues"
+  },
+  "homepage": "https://github.com/mcasey8540/generator-seneca-express#readme"
+}
